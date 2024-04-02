@@ -1,24 +1,5 @@
 Hi, I'm Rafaela ! 
 
 
-UX UI Enginner Student ![image](https://github.com/Raphaelavazq/Raphaelavazq/assets/158291895/fe32487a-67af-49ff-b8c2-48e0837ee933)
-
-Developer Consultant at ThoughtWorks
-
-Twitter: ThaiiBraga Linkedin: thaianebraga GitHub Thaiane
-
- A little more about me...
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+UX UI Enginner Student at https://www.google.com/imgres?q=bit%20beam%20institute%20of%20technology&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100083216956522&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fbeaminstituteoftechnology%2F&docid=J2KCF384jGFXLM&tbnid=D4Z7mWkHQHlcYM&vet=12ahUKEwjG4J2PuqSFAxUUgP0HHVSwCicQM3oECF8QAA..i&w=309&h=309&hcb=2&ved=2ahUKEwjG4J2PuqSFAxUUgP0HHVSwCicQM3oECF8QAA
 
