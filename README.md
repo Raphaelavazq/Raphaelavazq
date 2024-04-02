@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi, I'm Rafaela ! 
 
-<!--
-**Raphaelavazq/Raphaelavazq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+UX UI Enginner Student ![image](https://github.com/Raphaelavazq/Raphaelavazq/assets/158291895/fe32487a-67af-49ff-b8c2-48e0837ee933)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer Consultant at ThoughtWorks
+
+Twitter: ThaiiBraga Linkedin: thaianebraga GitHub Thaiane
+
+ A little more about me...
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
