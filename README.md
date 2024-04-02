@@ -1,4 +1,4 @@
 Hi, I'm Rafaela ! 
 
 
-UX UI Enginner Student at 	https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-6…W5boIZmrHk7HKHgWlm80wTSd558_bF9hLKGMA&oe=6612496C
+UX UI Enginner Student at 	![image](https://github.com/Raphaelavazq/Raphaelavazq/assets/158291895/39167ca8-6470-4d1c-b876-5de8cef469b7)
