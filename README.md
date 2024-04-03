@@ -2,8 +2,7 @@
 
 ![image](https://github.com/Raphaelavazq/Raphaelavazq/assets/158291895/74301e7b-e72a-4914-ba1c-3dcd6a6848ad)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/NUX_Octodex.gif" alt="NUXtocat">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 128 128">
 	<path fill="#e524a8" d="m27.854 116.354l-8.043-90.211h88.378l-8.051 90.197l-36.192 10.033z" />
